@@ -1,0 +1,12 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modules.js",
+  "scripts": {
+    "start": "nodemon modules.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Javi",
+  "license": "ISC"
+}
